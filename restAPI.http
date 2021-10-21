@@ -1,0 +1,15 @@
+# POST http://localhost:4000/newArticle
+# Content-Type: application/json
+
+# {
+#     "Id": "4",http://hcmute.edu.vn/
+#     "Title": "a new article",
+#     "desc": "the description for my new one",
+#     "content": "my articles content"
+# }
+
+#  GET http://localhost:4000/articles
+
+# DELETE http://localhost:4000/deleteArticle/2
+
+GET http://localhost:4000/index.
